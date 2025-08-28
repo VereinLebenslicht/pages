@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 Disallow: /admin/
 
-Sitemap: https://lebenslicht.org/sitemap.xml
+Sitemap: https://lebenslicht.at/sitemap.xml
